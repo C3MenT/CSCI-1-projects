@@ -1,0 +1,3 @@
+﻿  PaycheckCalculations.cpp
+C:\Users\richard_mccray8415\source\repos\Lab Activity 4\Lab Activity 4\PaycheckCalculations.cpp(22,10): warning C4101: 'base_pay': unreferenced local variable
+  Lab Activity 4.vcxproj -> C:\Users\richard_mccray8415\source\repos\Lab Activity 4\Debug\Lab Activity 4.exe
