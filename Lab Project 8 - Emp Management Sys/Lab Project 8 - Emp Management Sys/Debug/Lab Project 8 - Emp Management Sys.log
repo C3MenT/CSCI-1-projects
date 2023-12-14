@@ -1,0 +1,3 @@
+﻿  EmployeeManagementSystem.cpp
+D:\Lab Project 8 - Emp Management Sys\Lab Project 8 - Emp Management Sys\EmployeeManagementSystem.cpp(38,9): warning C4101: 'AverageSalary': unreferenced local variable
+  Lab Project 8 - Emp Management Sys.vcxproj -> D:\Lab Project 8 - Emp Management Sys\Debug\Lab Project 8 - Emp Management Sys.exe
